@@ -5,9 +5,16 @@ Today’s goal is to **set the foundation for your DevOps journey**.
 
 You will create a **90-day personal DevOps learning plan** that clearly defines:
 - What is your understanding of DevOps and Cloud Engineering?
+- DevOps means Culture or Mindset To collaborate with development and Operations to reduce time to market.
+- 
 - Why you are starting learning DevOps & Cloud?
+- To become a trained DevOps Engineer.
+- 
 - Where do you want to reach?
+- To acchive best package.
+- 
 - How you will stay consistent every single day?
+- Practicing every day at least 1.30 hours and 3-4 hours on weekends.
 
 This is not a generic plan.  
 This is your **career execution blueprint** for the next 90 days.
@@ -16,6 +23,7 @@ This is your **career execution blueprint** for the next 90 days.
 
 ## Expected Output
 By the end of today, you should have:
+Perfetlly ready to become a DevOps Engineer.
 
 - A markdown file named:  
   `learning-plan.md`
@@ -33,13 +41,13 @@ The file/note should clearly reflect your intent, discipline, and seriousness to
 Follow these rules while creating your plan:
 
 - Mention your **current level**  
-  (student / fresher / working professional / non-IT background, etc.)
+  working professional
 - Define **3 clear goals** for the next 90 days  
-  (example: deploy a production-grade application on Kubernetes)
+  1.Handson on Linux, 2. Learn CI/CD Pipelines 3.Become a perfect DevOps Enginner moslty in Kubernetes
 - Define **3 core DevOps skills** you want to build  
-  (example: Linux troubleshooting, CI/CD pipelines, Kubernetes debugging)
+  Linux troubleshooting, CI/CD pipelines, Kubernetes debugging
 - Allocate a **weekly time budget**  
-  (example: 2–2.5 hours per day on weekdays, 4-6 hours weekends)
+  2 hours per day on weekdays, 4-6 hours weekends
 - Keep the document **under 1 page**
 - Be honest and realistic; consistency matters more than perfection
 
